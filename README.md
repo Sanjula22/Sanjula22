@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[UCR71cT7-GCxsXalw0OfPbTQ](https://youtube.com/@stylishcrew3347?si=4T8QOD-hhMdadekC)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stylish crew" height="30" width="40" /></a>
+<a href="https://youtube.com/@stylishcrew3347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stylish crew" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
