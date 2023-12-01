@@ -13,7 +13,7 @@
 <a href="https://youtube.com/@stylishcrew3347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stylish crew" height="30" width="40" /></a>
 </p>
 
-<br>
+<h2> My Statistics  </h2>
 
 | ![Sanjula's github stats](https://github-readme-stats.vercel.app/api?username=Sanjula22&show_icons=true&theme=tokyonight) | ![Sanjula GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjula22&theme=tokyonight) |
 | --- | --- |
