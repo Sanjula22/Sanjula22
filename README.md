@@ -1,3 +1,6 @@
+<div align="center">
+    <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></picture>
+</div>
 <h1 align="center">Hi 👋, I'm Sanjula Wijerathna</h1>
 <div align="center">
     <h3>Professional IT Student | Exploring the Boundless World of Technology</h3>
