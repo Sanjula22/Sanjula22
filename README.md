@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sanjula</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjula22&label=Profile%20views&color=0e75b6&style=flat" alt="sanjula22" /> </p>
+<h1 align="center">Hi 👋, I'm Sanjula Wijerathna</h1>
+<div align="center">
+  <h3>Profetional IT Studdent | Exploring the Boundless World of Technology</h3>
+</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanjula22&label=Profile%20views&color=0e75b6&style=flat" alt="sanjula22" /> </p>
+<hr>
 
 - 📫 How to reach me **sanjula200249@gmail.com**
 
