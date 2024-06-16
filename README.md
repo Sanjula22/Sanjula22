@@ -9,7 +9,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
-  <a href="https://linkedin.com/in/sanjula wijerathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjula wijerathna" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sanjula-wijerathna-9367622a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjula wijerathna" height="30" width="40" /></a>
 <a href="https://fb.com/sanjula wijerathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanjula wijerathna" height="30" width="40" /></a>
 <a href="https://instagram.com/sanjula_wijerathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjula_wijerathna" height="30" width="40" /></a>
 <a href="https://youtube.com/@stylishcrew3347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stylish crew" height="30" width="40" /></a>
